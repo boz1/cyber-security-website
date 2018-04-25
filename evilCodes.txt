@@ -2,7 +2,7 @@ SQL Injection:
 
 Bypass Login
 
-Username : anything
+Username : xxx
 Password : 'OR 'A' = 'A
 
 XSS:
